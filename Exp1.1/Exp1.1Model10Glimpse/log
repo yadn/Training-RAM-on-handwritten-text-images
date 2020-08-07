@@ -1,0 +1,10 @@
+python main.py --is_train=False --num_glimpses 10
+[*] Number of model parameters: 213,789
+[*] Loading model from ./ckpt
+[*] Loaded ram_10_8x8_2_model_best.pth.tar checkpoint @ epoch 92 with best valid acc of 83.245
+/media/data3.1/RAM/ram/trainer.py:465: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  x, y = Variable(x, volatile=True), Variable(y)
+/home/ayush/OCR/nohelmet_shubham/package/noHelmet9.1/lib/python3.6/site-packages/torch/nn/functional.py:1340: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+[*] Test Acc: 103896/124800 (83.25% - 16.75%)
+

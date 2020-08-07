@@ -1,0 +1,4 @@
+loader.samples[0].filePath
+loader.samples[0].gtText
+img = preprocess(cv2.imread(loader.samples[0].filePath, cv2.IMREAD_GRAYSCALE), imgSize, True)
+plt.imshow(img.T,cmap="Greys_r")

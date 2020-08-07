@@ -1,0 +1,27 @@
+Epoch: 1/100 - LR: 0.000300
+train loss: 18.057 - train acc: 3.270 val loss: 26.082 - val acc: 6.242
+
+Epoch: 2/100 - LR: 0.000300
+train loss: 15.273 - train acc: 9.181 val loss: 20.929 - val acc: 6.527
+
+Epoch: 3/100 - LR: 0.000300
+train loss: 14.131 - train acc: 9.086 val loss: 11.662 - val acc: 39.970
+
+Epoch: 4/100 - LR: 0.000300
+train loss: 12.321 - train acc: 11.112 val loss: 7.961 - val acc: 39.927
+
+Epoch: 5/100 - LR: 0.000300
+train loss: 11.970 - train acc: 11.087 val loss: 6.795 - val acc: 39.960
+
+Epoch: 6/100 - LR: 0.000300
+train loss: 11.718 - train acc: 10.904 val loss: 16.180 - val acc: 6.548
+
+Epoch: 8/100 - LR: 0.000300
+train loss: 11.422 - train acc: 10.569 val loss: 6.149 - val acc: 40.706
+
+Epoch: 9/100 - LR: 0.000300
+train loss: 11.156 - train acc: 13.076 val loss: 5.899 - val acc: 42.322 [*]
+
+Epoch: 10/100 - LR: 0.000300
+train loss: 10.759 - train acc: 15.940 val loss: 6.121 - val acc: 39.532
+

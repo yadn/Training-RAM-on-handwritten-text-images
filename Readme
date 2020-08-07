@@ -1,0 +1,6 @@
+Datasets need to be downloaded as per references in report (registeration also required). Also change path in data_loader in sub-folders
+
+
+All our codes are available in attached folder. In
+each sub folder go to plots/ram_* to visualise videos.
+Logs are also available in file names log*

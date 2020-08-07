@@ -1,0 +1,6 @@
+Epoch: 5/100 - LR: 0.000300
+train loss: 14.952 - train acc: 11.087 val loss: 24.768 - val acc: 39.928
+
+Epoch: 6/100 - LR: 0.000300
+train loss: 13.498 - train acc: 11.445 val loss: 18.151 - val acc: 6.527
+
